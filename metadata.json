@@ -1,0 +1,6 @@
+{
+  "name": "Santé+ - E-Santé Bénin & Bitcoin",
+  "description": "Infrastructure nationale de santé numérique interconnectée au Bénin. De l'urgence au soin en 3 minutes, un dossier médical pour la vie sécurisé par Bitcoin et Lightning Network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
